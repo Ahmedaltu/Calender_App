@@ -1,6 +1,6 @@
 # Calender_App
 Calendar
-The program must have (at least) following operations:
+The program must have following operations:
 1. initialize (empty the database)
 2. save database to file
 3. read database from file
